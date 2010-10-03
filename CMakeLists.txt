@@ -1,6 +1,6 @@
 
 	PROJECT(libmng)
-	CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+	CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 	INCLUDE(dist.cmake)
 
 ###########################################################################################
